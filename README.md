@@ -1,5 +1,5 @@
 # Dani
 
-:construction: Under construction..
+:construction: Under construction ...
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,arduino,raspberrypi,python,nodejs,idea,vscode,linux,arch,discord,docker,express)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=ts,py,arch,bun,mongodb,react,vite)](https://daani.tech)
