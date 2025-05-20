@@ -2,4 +2,4 @@
 
 :construction: Under construction ...
 
-[![skills](https://skillicons.dev/icons?i=ts,py,arch,bun,mongodb,react,vite)](https://daani.tech)
+[![skills](https://skillicons.dev/icons?i=ts,py,linux,bun,mongodb,react,vite,tailwind,nextjs,postgres)](https://skillicons.dev)
